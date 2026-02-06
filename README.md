@@ -1,5 +1,6 @@
 # Venus External
 
+## MAY BE BUGGY WHEN JOINING A NEW GAME, START ONCE IT IS ALL LOADER
 A modern, high-performance external ESP overlay for Roblox, built with Python.
 
 ## Features
